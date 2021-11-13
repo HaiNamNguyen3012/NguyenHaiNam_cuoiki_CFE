@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background: #ffffff;
+    width: 50%;
+    height: 500px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10px;
+}
+h1{
+    padding: 20px;
+}
+#input{
+    display: block;
+}
+input{
+    width: 250px;
+}
